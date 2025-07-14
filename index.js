@@ -3521,4 +3521,4 @@ function readJsons() {
 function writeJsons(data) {
   fs.writeFileSync(applys, JSON.stringify(data, null, 2));
 }
-client.login(process.env.TOKEN);
+client.login("MTEzNjg3NDExMzEyMzEzMTMyMzEz.L-123456Abc.DEFghijkLmnoPqrstuVwxyz123");
